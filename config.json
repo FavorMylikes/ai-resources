@@ -6,10 +6,10 @@
         2601,
         4
       ],
-      "tensorPath": "https://git.mcn-monitor.com/mylikes/ai-resources/raw/master/vecs.tsv",
-      "metadataPath": "https://git.mcn-monitor.com/mylikes/ai-resources/raw/master/meta.tsv",
+      "tensorPath": "https://raw.githubusercontent.com/FavorMylikes/ai-resources/main/vecs.tsv",
+      "metadataPath": "https://raw.githubusercontent.com/FavorMylikes/ai-resources/main/meta.tsv",
       "sprite": {
-        "imagePath": "https://git.mcn-monitor.com/mylikes/ai-resources/raw/master/sprite.png",
+        "imagePath": "https://raw.githubusercontent.com/FavorMylikes/ai-resources/main/sprite.png",
         "singleImageDim": [
           40,
           40
