@@ -1,0 +1,20 @@
+{
+  "embeddings": [
+    {
+      "tensorName": "Ts classify",
+      "tensorShape": [
+        2601,
+        4
+      ],
+      "tensorPath": "https://git.mcn-monitor.com/mylikes/ai-resources/raw/master/vecs.tsv",
+      "metadataPath": "https://git.mcn-monitor.com/mylikes/ai-resources/raw/master/meta.tsv",
+      "sprite": {
+        "imagePath": "https://git.mcn-monitor.com/mylikes/ai-resources/raw/master/sprite.png",
+        "singleImageDim": [
+          40,
+          40
+        ]
+      }
+    }
+  ]
+}
