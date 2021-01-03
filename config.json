@@ -3,8 +3,8 @@
     {
       "tensorName": "Ts classify",
       "tensorShape": [
-        2601,
-        4
+        3600,
+        8
       ],
       "tensorPath": "https://raw.githubusercontent.com/FavorMylikes/ai-resources/main/vecs.tsv",
       "metadataPath": "https://raw.githubusercontent.com/FavorMylikes/ai-resources/main/meta.tsv",
